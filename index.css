@@ -1,0 +1,9 @@
+.user_post {
+    height: 300px;
+    border: 2px solid black;
+}
+
+.comments_section {
+    height: 200px;
+    border: 2px solid blue;
+}
